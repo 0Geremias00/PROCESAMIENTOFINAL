@@ -312,7 +312,7 @@ const edificiosOriginales = [
           { nombre: 'Decanato F.C.I.I.A.E.E (Dec. FCIIAEE)', tipo: 'ADMINISTRATIVO' }
         ],
         ladoDerecho: [
-          { nombre: 'Dirección de Comercio Exterior y Negosiacion Internacional (Dir.CE%NI)', tipo: 'ADMINISTRATIVO' },
+          { nombre: 'Dirección de Comercio Exterior y Negosiacion Internacional (Dir.CE&NI)', tipo: 'ADMINISTRATIVO' },
           { nombre: 'Sala de Profesores Comercio Exterior (SD.CE%NI)', tipo: 'ADMINISTRATIVO' },
           { nombre: 'Dependencia (Dep.)', tipo: 'OTRO' },
           { nombre: 'Sala de Profesores Administración de empresas y Marketing (SD.AE1 Y SD.AE2)', tipo: 'ADMINISTRATIVO' },
