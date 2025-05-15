@@ -301,7 +301,7 @@ const edificiosOriginales = [
       {
         numero: 0,
         nombre: 'Planta Baja',
-        imagen: '/assets/images/edificio1-plantabaja.png',
+        imagen: '/assets/images/edificio1-plantabaja.jpg',
         ladoIzquierdo: [
           { nombre: 'Laboratorio Asuntos públicos y de gobierno (LAB-GO)', tipo: 'LABORATORIO' },
           { nombre: 'Sala de Reuniones', tipo: 'SERVICIO' },
@@ -313,10 +313,10 @@ const edificiosOriginales = [
         ],
         ladoDerecho: [
           { nombre: 'Dirección de Comercio Exterior y Negosiacion Internacional (Dir.CE&NI)', tipo: 'ADMINISTRATIVO' },
-          { nombre: 'Sala de Profesores Comercio Exterior (SD.CE%NI)', tipo: 'ADMINISTRATIVO' },
+          { nombre: 'Sala de Profesores Comercio Exterior (SD.CE&NI)', tipo: 'ADMINISTRATIVO' },
           { nombre: 'Dependencia (Dep.)', tipo: 'OTRO' },
           { nombre: 'Sala de Profesores Administración de empresas y Marketing (SD.AE1 Y SD.AE2)', tipo: 'ADMINISTRATIVO' },
-          { nombre: 'Secretaria de Administración y Marketing (Sria.AE%M)', tipo: 'ADMINISTRATIVO' },
+          { nombre: 'Secretaria de Administración y Marketing (Sria.AE&M)', tipo: 'ADMINISTRATIVO' },
           { nombre: 'Dirección (Dir.)', tipo: 'ADMINISTRATIVO' },
           { nombre: 'Sala de Profesores Escuela de Administración de Empresas y Marketing (Dir.AE&M)', tipo: 'ADMINISTRATIVO' },
           { nombre: 'Archivo F.C.I.I.A.E.E (Arch.FCIIAEE)', tipo: 'ARCHIVO' }
@@ -325,7 +325,7 @@ const edificiosOriginales = [
       {
         numero: 1,
         nombre: 'Primer Piso',
-        imagen: '/assets/images/edificio1-piso1.jpg',
+        imagen: '/assets/images/edificio1-piso1.png',
         ladoDerecho: [
           { nombre: 'Ascensor', tipo: 'SERVICIO' },
           { nombre: 'Servidores', tipo: 'TÉCNICO' },
@@ -353,7 +353,7 @@ const edificiosOriginales = [
       {
         numero: 2,
         nombre: 'Segundo Piso',
-        imagen: '/assets/images/edificio1-piso2.jpg',
+        imagen: '/assets/images/edificio1-piso2.png',
         ladoDerecho: [
           { nombre: 'Ascensor', tipo: 'SERVICIO' },
           { nombre: 'Dirección Administración Publica', tipo: 'ADMINISTRATIVO' },
