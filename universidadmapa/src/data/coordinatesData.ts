@@ -301,7 +301,7 @@ const edificiosOriginales = [
       {
         numero: 0,
         nombre: 'Planta Baja',
-        imagen: '/assets/images/edificio1-plantabaja.jpg',
+        imagen: '/assets/images/edificio1-plantabaja.png',
         ladoIzquierdo: [
           { nombre: 'Laboratorio Asuntos públicos y de gobierno (LAB-GO)', tipo: 'LABORATORIO' },
           { nombre: 'Sala de Reuniones', tipo: 'SERVICIO' },
