@@ -326,7 +326,7 @@ const edificiosOriginales = [
       {
         numero: 1,
         nombre: 'Primer Piso',
-        imagen: '/assets/images/edificio1-piso1.png',
+        imagen: '/assets/images/edificio1-piso1.jpg',
         ladoDerecho: [
           { nombre: 'Ascensor', tipo: 'SERVICIO' },
           { nombre: 'Servidores', tipo: 'TÉCNICO' },
@@ -354,7 +354,7 @@ const edificiosOriginales = [
       {
         numero: 2,
         nombre: 'Segundo Piso',
-        imagen: '/assets/images/edificio1-piso2.png',
+        imagen: '/assets/images/edificio1-piso2.jpg',
         ladoDerecho: [
           { nombre: 'Ascensor', tipo: 'SERVICIO' },
           { nombre: 'Dirección Administración Publica', tipo: 'ADMINISTRATIVO' },
