@@ -333,7 +333,7 @@ const edificiosOriginales = [
           { nombre: 'Aula 101', tipo: 'AULA' },
           { nombre: 'Aula 102', tipo: 'AULA' },
           { nombre: 'Aula 103', tipo: 'AULA' },
-          { nombre: 'Baños', tipo: 'SERVICIO' },
+          { nombre: 'Baños', tipo: 'BAÑOS' },
           { nombre: 'Aula 104', tipo: 'AULA' },
           { nombre: 'Aula 105', tipo: 'AULA' },
           { nombre: 'Aula 106', tipo: 'AULA' }
@@ -344,7 +344,7 @@ const edificiosOriginales = [
           { nombre: 'Aula 112', tipo: 'AULA' },
           { nombre: 'Aula 111', tipo: 'AULA' },
           { nombre: 'Aula 110', tipo: 'AULA' },
-          { nombre: 'Baños', tipo: 'SERVICIO' },
+          { nombre: 'Baños', tipo: 'BAÑOS' },
           { nombre: 'Aula 109', tipo: 'AULA' },
           { nombre: 'Aula 108', tipo: 'AULA' },
           { nombre: 'Aula 107', tipo: 'AULA' }
@@ -360,7 +360,7 @@ const edificiosOriginales = [
           { nombre: 'Aula 201', tipo: 'AULA' },
           { nombre: 'Aula 202', tipo: 'AULA' },
           { nombre: 'Aula 203', tipo: 'AULA' },
-          { nombre: 'Baños', tipo: 'SERVICIO' },
+          { nombre: 'Baños', tipo: 'BAÑOS' },
           { nombre: 'Aula 204', tipo: 'AULA' },
           { nombre: 'Aula 205', tipo: 'AULA' },
           { nombre: 'Sala de docentes Carrera de Administración Publica', tipo: 'ADMINISTRATIVO' }
@@ -370,7 +370,7 @@ const edificiosOriginales = [
           { nombre: 'Aula 212', tipo: 'AULA' },
           { nombre: 'Aula 211', tipo: 'AULA' },
           { nombre: 'Aula 210', tipo: 'AULA' },
-          { nombre: 'Baños', tipo: 'SERVICIO' },
+          { nombre: 'Baños', tipo: 'BAÑOS' },
           { nombre: 'Aula 209', tipo: 'AULA' },
           { nombre: 'Aula 208', tipo: 'AULA' },
           { nombre: 'Aula 207', tipo: 'AULA' }
