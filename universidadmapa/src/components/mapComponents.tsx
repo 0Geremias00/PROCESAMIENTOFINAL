@@ -268,12 +268,16 @@ const UbicacionItem: React.FC<{
         return '🏢';
       case 'LABORATORIO':
         return '🧪';
+      case 'LABORATORIO':
+        return '🧪';
       case 'SERVICIO':
         return '🛎️';
       case 'TÉCNICO':
         return '🔧';
       case 'SEGURIDAD':
         return '🔒';
+      case 'BAÑOS':
+        return '🧻';
       case 'ALMACÉN':
         return '📦';
       case 'ARCHIVO':
